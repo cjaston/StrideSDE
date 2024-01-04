@@ -1,8 +1,6 @@
 package com.javaoo.calculators;
 
 public class BasicCalculator {
-	private double x, y;
-
 	public final double add(double x, double y) {
 
 		return x + y;
