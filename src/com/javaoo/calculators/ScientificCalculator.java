@@ -37,5 +37,6 @@ public class ScientificCalculator {
 		System.out.println(calci.exp(2));
 		System.out.println(calci.log(4));
 		System.out.println(calci.getValueFromMemory());
+		System.out.println(PI);
 	}
 }
