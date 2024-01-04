@@ -3,7 +3,7 @@ package com.javaoo.calculators;
 public class ScientificCalculator {
 	private static final double PI = 3.14159;
 
-	private double holdValue = PI;
+	private double holdValue;
 
 	public final double exp(double x) {
 
